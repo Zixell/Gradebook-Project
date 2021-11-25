@@ -3,7 +3,7 @@
 # API
 
 `GET /students/{id}` - получить студента по id
-```html
+```json
 {
     "name": "Molecule Man",
     "age": 29,
